@@ -1,106 +1,115 @@
 {
   "summary": {
-    "orig_total_usd": 40666.19,
-    "new_total_usd": 163068.03
+    "orig_total_usd": 50955.83,
+    "new_total_usd": 173196.81
   },
   "positions": {
+    "0050.TW": {
+      "orig_qty": 2000,
+      "orig_price_usd": 5.14,
+      "orig_value_usd": 10289.64,
+      "new_qty": 3383,
+      "new_price_usd": 5.14,
+      "new_value_usd": 17404.92,
+      "currency": "TWD"
+    },
     "ACN": {
       "orig_qty": 6,
       "orig_price_usd": 293.39,
       "orig_value_usd": 1760.34,
-      "new_qty": 44,
+      "new_qty": 29,
       "new_price_usd": 293.39,
-      "new_value_usd": 12909.16,
+      "new_value_usd": 8508.31,
       "currency": "USD"
     },
     "ARKB": {
       "orig_qty": 0,
       "orig_price_usd": 95.19,
       "orig_value_usd": 0.0,
-      "new_qty": 86,
+      "new_qty": 91,
       "new_price_usd": 95.19,
-      "new_value_usd": 8186.34,
+      "new_value_usd": 8662.29,
       "currency": "USD"
     },
     "ARKG": {
       "orig_qty": 0,
       "orig_price_usd": 22.4,
       "orig_value_usd": 0.0,
-      "new_qty": 365,
+      "new_qty": 388,
       "new_price_usd": 22.4,
-      "new_value_usd": 8176.0,
+      "new_value_usd": 8691.2,
       "currency": "USD"
     },
     "COIN": {
       "orig_qty": 0,
       "orig_price_usd": 209.64,
       "orig_value_usd": 0.0,
-      "new_qty": 39,
+      "new_qty": 41,
       "new_price_usd": 209.64,
-      "new_value_usd": 8175.96,
+      "new_value_usd": 8595.24,
       "currency": "USD"
     },
     "CRDO": {
       "orig_qty": 120,
       "orig_price_usd": 43.68,
       "orig_value_usd": 5241.6,
-      "new_qty": 187,
+      "new_qty": 199,
       "new_price_usd": 43.68,
-      "new_value_usd": 8168.16,
+      "new_value_usd": 8692.32,
       "currency": "USD"
     },
     "CRM": {
       "orig_qty": 0,
       "orig_price_usd": 267.85,
       "orig_value_usd": 0.0,
-      "new_qty": 42,
+      "new_qty": 32,
       "new_price_usd": 267.85,
-      "new_value_usd": 11249.7,
+      "new_value_usd": 8571.2,
       "currency": "USD"
     },
     "MRVL": {
       "orig_qty": 100,
       "orig_price_usd": 58.92,
       "orig_value_usd": 5892.0,
-      "new_qty": 278,
+      "new_qty": 147,
       "new_price_usd": 58.92,
-      "new_value_usd": 16379.76,
+      "new_value_usd": 8661.24,
       "currency": "USD"
     },
     "NET": {
       "orig_qty": 100,
       "orig_price_usd": 121.0,
       "orig_value_usd": 12100.0,
-      "new_qty": 135,
+      "new_qty": 143,
       "new_price_usd": 121.0,
-      "new_value_usd": 16335.0,
+      "new_value_usd": 17303.0,
       "currency": "USD"
     },
     "NVDA": {
       "orig_qty": 0,
       "orig_price_usd": 111.01,
       "orig_value_usd": 0.0,
-      "new_qty": 147,
+      "new_qty": 156,
       "new_price_usd": 111.01,
-      "new_value_usd": 16318.47,
+      "new_value_usd": 17317.56,
       "currency": "USD"
     },
     "SHOP": {
       "orig_qty": 0,
       "orig_price_usd": 97.12,
       "orig_value_usd": 0.0,
-      "new_qty": 84,
+      "new_qty": 89,
       "new_price_usd": 97.12,
-      "new_value_usd": 8158.08,
+      "new_value_usd": 8643.68,
       "currency": "USD"
     },
     "TSLA": {
       "orig_qty": 55,
       "orig_price_usd": 284.95,
       "orig_value_usd": 15672.25,
-      "new_qty": 172,
+      "new_qty": 183,
       "new_price_usd": 284.95,
-      "new_value_usd": 49011.4,
+      "new_value_usd": 52145.85,
       "currency": "USD"
     }
   }
