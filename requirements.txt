@@ -1,1 +1,5 @@
- 
+yfinance --upgrade --no-cache-dir
+pandas-datareader
+tabulate
+yahoo_fin
+requests_html
